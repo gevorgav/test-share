@@ -16,5 +16,5 @@
           <body>
 <div class="fb-share-button" data-href="https://dev-api.interpopcomics.com/dev/client/comics/ae8d5ac0fdda11ecadf41781e56fb373/share?fbclid=IwAR3ci-VJAIHA2azHD5eXMtb0pfzS4uJEa4bWFItC_Gxk3ENYsGvJNAD_3lw" 
      data-layout="button_count" data-size="small"><a target="_blank"
-     href="https://dev-api.interpopcomics.com/dev/client/comics/ae8d5ac0fdda11ecadf41781e56fb373/share?fbclid=IwAR3ci-VJAIHA2azHD5eXMtb0pfzS4uJEa4bWFItC_Gxk3ENYsGvJNAD_3lw;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+     href="https://www.facebook.com/sharer/sharer.php?u=https://dev-api.interpopcomics.com/dev/client/comics/ae8d5ac0fdda11ecadf41781e56fb373/share?fbclid=IwAR3ci-VJAIHA2azHD5eXMtb0pfzS4uJEa4bWFItC_Gxk3ENYsGvJNAD_3lw;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
           </body></html>
