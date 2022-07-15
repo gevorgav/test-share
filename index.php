@@ -11,6 +11,4 @@
             <meta http-equiv="Content-Security-Policy" content="default-src *;img-src * &#39;self&#39; data: https:; script-src &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39; *; style-src  &#39;self&#39; &#39;unsafe-inline&#39; *">
           </head>
           <body>
-            <img src="./share_files/bdd259f0-fdda-11ec-be45-4d7365da49e1-0.jpg" style="width: auto; height: 75%">
-            <a href="https://dev.interpopcomics.com/comics/ae8d5ac0fdda11ecadf41781e56fb373/details?page=home"></a>
           </body></html>
