@@ -11,4 +11,5 @@
             <meta http-equiv="Content-Security-Policy" content="default-src *;img-src * &#39;self&#39; data: https:; script-src &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39; *; style-src  &#39;self&#39; &#39;unsafe-inline&#39; *">
           </head>
           <body>
+<div class="fb-share-button" data-href="https://dev.interpopcomics.com/comics/ae8d5ac0fdda11ecadf41781e56fb373/details" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsehare-aep.herokuapp.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
           </body></html>
